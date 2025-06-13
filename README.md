@@ -1,8 +1,5 @@
 # suya
-<html>
-  <head><title>git hub</title></head>
-  <body>
-    <h1> git hub</h1>
-    <p>iam new one in a git hub</p>
+<html>\
+  <head> i like to eat momo.</head> 
   </body>
 </html>
